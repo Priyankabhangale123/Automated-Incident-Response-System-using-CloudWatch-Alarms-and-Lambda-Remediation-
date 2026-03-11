@@ -21,7 +21,7 @@ EC2 CPU usage increases CloudWatch Alarm detects threshold breach Alarm triggers
 
 # 2️⃣ Lambda Remediation Function
 Lambda function created to reboot EC2 instance automatically.
-<img width="1920" height="986" alt="Select metric _ Alarms _ CloudWatch _ ap-southeast-2 - Google Chrome 11-03-2026 22_43_27" src="https://github.com/user-attachments/assets/5a1cf5e2-c2b7-48f4-9a85-90690213382f" />
+<img width="1920" height="1020" alt="myfunction _ Functions _ Lambda - Google Chrome 11-03-2026 23_52_19" src="https://github.com/user-attachments/assets/a8adb3e6-e10f-4543-aa54-415c14abb3d1" />
 
 # 3️⃣ Alarm → Lambda Trigger Configuration
 CloudWatch Alarm configured to: State: In Alarm Action: Invoke Lambda Function
