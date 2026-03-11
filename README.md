@@ -46,7 +46,7 @@ Lambda execution logs stored in: CloudWatch → Log Groups → /aws/lambda/Funct
 
 <img width="1261" height="533" alt="Select metric _ Alarms _ CloudWatch _ ap-southeast-2 - Google Chrome 11-03-2026 23_40_26" src="https://github.com/user-attachments/assets/a2b27f5e-8e34-4ab0-9db9-fd3390e51cbf" />
 
-<img width="1261" height="533" alt="Select metric _ Alarms _ CloudWatch _ ap-southeast-2 - Google Chrome 11-03-2026 23_40_26" src="https://github.com/user-attachments/assets/16aeba90-7872-42bf-8cfc-5c70a1359264" />
+<img width="1258" height="544" alt="Select metric _ Alarms _ CloudWatch _ ap-southeast-2 - Google Chrome 11-03-2026 23_34_20" src="https://github.com/user-attachments/assets/9a3313b3-0dac-458b-a756-8d794b311811" />
 
 # Results
 ✔ CPU threshold breach detected ✔ Lambda triggered automatically ✔ EC2 reboot initiated ✔ Logs captured successfully ✔ No manual intervention required
